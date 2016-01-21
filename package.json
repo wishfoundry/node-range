@@ -15,6 +15,9 @@
     "node": ">=0.8"
   },
   "main": "lib/range",
+  "dependencies": {
+    "rho-contracts": "0.0.5"
+  },
   "devDependencies": {
     "cmp": "0.0.2",
     "editorconfig-tools": ">= 0.0.1",
