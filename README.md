@@ -55,7 +55,7 @@ FreeBSD
 
 # REQUIREMENTS
 
-* [Node.js](http://nodejs.org/) 0.8+
+* [Node.js](http://nodejs.org/) 0.11.6+
 
 ## Optional
 
